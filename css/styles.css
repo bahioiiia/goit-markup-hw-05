@@ -735,7 +735,7 @@ a {
 
 }
 
-.modal-label {
+/* .modal-label {
     resize: none;
     display: flex;
     align-items: flex-start;
@@ -750,14 +750,14 @@ a {
     color: var(--light-slate);
     /* ---- */
 
-}
+} */
 
-.checkbox-input {
+.modal-checkbox-input {
     border-radius: 2px;
     border: 1px solid rgba(46, 47, 66, 0.4);
 }
 
-.checkbox-input:checked+.privacy-label>.privacy-span {
+.modal-checkbox-input:checked+.privacy-label>.privacy-span {
     border: none;
     background-color: var(--ocean);
     fill: var(--icons);
