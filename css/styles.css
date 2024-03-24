@@ -658,6 +658,16 @@ a {
     margin-bottom: 8px;
 }
 
+/* .modal-form {
+    border: 1px solid #4d5ae5;
+    border-radius: 4px;
+    width: 360px;
+    height: 40px;
+
+} */
+
+
+
 .modal-form-input-box {
 
     margin-bottom: 8px;
@@ -727,13 +737,6 @@ a {
     margin-bottom: 16px;
 }
 
-.modal-form {
-    border: 1px solid #4d5ae5;
-    border-radius: 4px;
-    width: 360px;
-    height: 40px;
-
-}
 
 /* .modal-label {
     resize: none;
@@ -748,8 +751,6 @@ a {
     line-height: 1.16667;
     letter-spacing: 0.04em;
     color: var(--light-slate);
-    /* ---- */
-
 } */
 
 .modal-checkbox-input {
